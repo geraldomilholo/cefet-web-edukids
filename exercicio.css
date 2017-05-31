@@ -48,9 +48,6 @@
 .instinto-selvagem {}
 .instinto-selvagem img {
 	border: 5px solid red;
-	/*outline: none;
-	-webkit-transform: rotate(-3deg) scale(2.5); 
-	z-index: 9999; */
 	animation: selvagem .5s linear alternate infinite;
 }
 
